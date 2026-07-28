@@ -1,12 +1,12 @@
 {
-    "version": "0.24.0",
+    "version": "0.33.1",
     "description": "Talm is a Helm-like utility for declarative configuration management of Talos Linux",
     "homepage": "https://cozystack.io",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/cozystack/talm/releases/download/v0.24.0/talm-windows-amd64.tar.gz",
-            "hash": "941a11e035831cc802a3c2cd23b3888dbcfafc2bd8c4cfbec22e417ffc927e1b"
+            "url": "https://github.com/cozystack/talm/releases/download/v0.33.1/talm-windows-amd64.zip",
+            "hash": "f5c2186376059722650994f000ffbd2f7de8a24a0103babf99be5763fb7412bb"
         }
     },
     "bin": "talm.exe",
