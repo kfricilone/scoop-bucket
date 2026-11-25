@@ -1,15 +1,15 @@
 {
     "description": "BellSoft Liberica is a 100% open-source Java 25 implementation",
     "homepage": "https://bell-sw.com/java",
-    "version": "25.0.4.1-1",
+    "version": "25.0.5.0.3-5",
     "license": "GPL-2.0-only WITH Classpath-exception-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/bell-sw/Liberica/releases/download/25.0.4.1%2B1/bellsoft-jdk25.0.4.1%2B1-windows-amd64.zip",
-            "hash": "sha1:841be12d9058794e067d206f4cd36a4056d4ca3a"
+            "url": "https://github.com/bell-sw/Liberica/releases/download/25.0.5.0.3%2B5/bellsoft-jdk25.0.5.0.3%2B5-windows-amd64.zip",
+            "hash": "sha1:ccbbbfda2ffc9c4d05188eaccc1573fc77d3fb81"
         }
     },
-    "extract_dir": "jdk-25.0.4.1",
+    "extract_dir": "jdk-25.0.5.0.3",
     "env_add_path": "bin",
     "env_set": {
         "JAVA_HOME": "$dir"
